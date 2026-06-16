@@ -1,8 +1,6 @@
-package main.java.memory;
+package memory;
 
 import java.nio.ByteBuffer;
-
-// 8:31
 
 /*
     A classe é a representação física de um bloco de memória do nosso banco de dados. 

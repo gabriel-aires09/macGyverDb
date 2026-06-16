@@ -1,4 +1,4 @@
-package main.java.storage;
+package storage;
 import java.nio.ByteBuffer;
 
 public class Tuple {
@@ -41,7 +41,7 @@ public class Tuple {
             Para fugir de loops, usamos o System.arraycopy. Sua função é pegar o bloco
             bytes de origem e injenta diretamente no array de destino 
         */
-        System.arraycopy(stringBytes, 0, this.payload, 0, lenghtToCopy);
+        System.arraycopy(stringBytes, 0, this.payload, 0, lengthToCopy);
     }
 
     /*  
