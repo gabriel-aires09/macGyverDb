@@ -1,3 +1,7 @@
+<p align="center">
+	<img width="200" alt="JavaFx Logo" src="https://i.imgur.com/vSQOa0U.png">
+</p>
+
 # macGyverDb
 
 Motor de banco de dados construído do zero em Java, com foco em performance de baixo nível e controle direto sobre memória e disco.
