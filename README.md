@@ -8,7 +8,7 @@ Motor de banco de dados construído do zero em Java, com foco em performance de 
 
 Este repositório tem como objetivo principal a criação de uma tese para meu futuro TCC em especialização de análise dados no Instituto Federal de Minas Gerais. A ideia central é utilizar os dados registrados neste banco criado do zero para inserção e análise de dados. 
 
-Futuramente, será criado um Notion como base de conhecimento da aplicaçãoe e futura tese. Existem diversos conceitos da ciência da computação que deve ser trabalhados em banco de dados, como Write-ahead logging (WAL).
+Futuramente, será criado um Notion como base de conhecimento da aplicação e futura tese. Existem diversos conceitos da ciência da computação que deve ser trabalhados em banco de dados, como Write-ahead logging (WAL).
  
 A base inicial deste projeto será creditada ao usuário Wesley00s e seu projeto - [nullDb](https://github.com/NullPointer-Labs/nulldb)
 
