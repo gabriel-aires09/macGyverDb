@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(wsl -d archlinux -- bash -c \"cd /home/resetim/macGyverDb && git diff HEAD && git diff --cached\")"
+    ]
+  }
+}

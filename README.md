@@ -12,6 +12,8 @@ Futuramente, será criado um Notion como base de conhecimento da aplicação e f
  
 A base inicial deste projeto será creditada ao usuário Wesley00s e seu projeto - [nullDb](https://github.com/NullPointer-Labs/nulldb)
 
+**Tempo: 34:51**
+
 ## Arquitetura
 
 O projeto implementa as camadas de armazenamento, memória, rede e recuperação de um banco de dados relacional a partir dos primitivos mais básicos, evitando abstrações do Java que introduziriam overhead desnecessário.
